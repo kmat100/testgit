@@ -10,11 +10,13 @@ public class test1git {
         int div = c/b;
         int mult = c*b;
         int per = c%b;
+        int mix = a+b*c;
 
         System.out.println(add);
         System.out.println(sub);
         System.out.println(div);
         System.out.println(mult);
         System.out.println(per);
+        System.out.println(mix);
     }
 }
