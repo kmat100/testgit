@@ -9,10 +9,12 @@ public class test1git {
         int sub = a-c;
         int div = c/b;
         int mult = c*b;
+        int per = c%b;
 
         System.out.println(add);
         System.out.println(sub);
         System.out.println(div);
         System.out.println(mult);
+        System.out.println(per);
     }
 }
